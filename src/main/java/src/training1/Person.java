@@ -1,4 +1,4 @@
-package src;
+package src.training1;
 
 import javax.persistence.*;
 import java.time.LocalDate;
