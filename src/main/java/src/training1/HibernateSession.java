@@ -1,4 +1,4 @@
-package src;
+package src.training1;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.Metadata;
